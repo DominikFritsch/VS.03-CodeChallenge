@@ -1,0 +1,24 @@
+      /* Type-Selector */
+      /* Standard: Überschrift h1 */
+      h1 {
+        font-family: cursive;
+        text-align: center;
+        color: rgb(83, 75, 75);
+      }
+      /* Standard: Paragraph */
+      p {
+        font-family: sans-serif;
+        text-align: center;
+        color: rgb(83, 75, 75);
+      }
+      /* Standard: Anchor */
+      a {
+        color: rgb(167, 1, 78);
+        text-decoration: none;
+      }
+
+      /* Sudo - Selector */
+      /* Standard: Anchor Hover */
+      a:hover{
+        text-decoration: underline;
+      }
